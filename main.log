@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.4)  5 SEP 2021 22:16
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.4)  5 SEP 2021 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -727,10 +727,6 @@ LaTeX Info: Redefining \nameref on input line 25.
 \openout4 = `main.out'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-
 Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
 (fontspec)             exist).
 
@@ -777,7 +773,7 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 33.
-(c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 33.
@@ -855,7 +851,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
 Here is how much of TeX's memory you used:
  27009 strings out of 479418
  568978 string characters out of 5888106
- 830790 words of memory out of 5000000
+ 830905 words of memory out of 5000000
  44047 multiletter control sequences out of 15000+600000
  541214 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
